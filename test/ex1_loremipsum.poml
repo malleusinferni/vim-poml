@@ -1,0 +1,13 @@
+#POML V2
+#TITLE An example Poml document
+#P
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut iis bonis erigimur, quae expectamus, sic laetamur iis, quae recordamur. Est, ut dicis, inquam. Dicimus aliquem hilare vivere; Ille enim occurrentia nescio quae comminiscebatur;
+
+\b{Age sane, inquam.} \hl{Ostendit pedes et pectus.} Quis istud possit, inquit, negare? \hl{Urgent tamen et nihil remittunt.} Aliter enim nosmet ipsos nosse non possumus. An hoc usque quaque, aliter in vita? Traditur, inquit, ab Epicuro ratio neglegendi doloris. Vulgo enim dicitur: Iucundi acti labores, nec male Euripidesconcludam, si potero, Latine; Suo genere perveniant ad extremum; Quamvis enim depravatae non sint, pravae tamen esse possunt. Negat esse eam, inquit, propter se expetendam.
+
+Hoc ne statuam quidem dicturam pater aiebat, si loqui posset. Consequens enim est et post oritur, ut dixi. \hl{Si longus, levis;} Est igitur officium eius generis, quod nec in bonis ponatur nec in contrariis. Est autem etiam actio quaedam corporis, quae motus et status naturae congruentis tenet; \i{Non igitur bene.} At, si voluptas esset bonum, desideraret. Non risu potius quam oratione eiciendum?
+
+\b{Non est igitur voluptas bonum.} Huic mori optimum esse propter desperationem sapientiae, illi propter spem vivere. Est enim tanti philosophi tamque nobilis audacter sua decreta defendere. Duo Reges: constructio interrete. An haec ab eo non dicuntur? Eorum enim est haec querela, qui sibi cari sunt seseque diligunt.
+
+His similes sunt omnes, qui virtuti student levantur vitiis, levantur erroribus, nisi forte censes Ti. Sed quae tandem ista ratio est? Mihi enim satis est, ipsis non satis. \hl{Honesta oratio, Socratica, Platonis etiam.} Et ille ridens: Video, inquit, quid agas; \b{Haec quo modo conveniant, non sane intellego.} \i{Hoc non est positum in nostra actione.} Ex rebus enim timiditas, non ex vocabulis nascitur.
+#END

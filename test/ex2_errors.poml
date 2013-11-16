@@ -1,0 +1,12 @@
+#POML V2
+#TITLE Poml/Tetanus error highlighting
+#TS Yesterday
+(not a timestamp)
+#TS 2013-23-40T00:00:00Z
+(impossible date)
+#TS 2013-11-13T18:10:25Z
+#P
+{{{Too many left braces
+
+Too many right braces}}}
+#END
