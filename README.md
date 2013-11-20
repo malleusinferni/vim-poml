@@ -6,7 +6,7 @@ As of this writing there are exactly two (*very* niche) use cases for Poml. This
 
 # Installation
 
-This repository is [Pathogen]- and [Vundle]-compatible. If you don't use package management tools, you can download the files (there aren't many) and move them into your `~/.vim` directory.
+This repository is [Pathogen]- and [Vundle]-compatible. If you don't use package management tools, you can download the files (there aren't many) and move them to the corresponding places in your `~/.vim` directory.
 
 [Pathogen]: https://github.com/tpope/vim-pathogen
 [Vundle]: https://github.com/gmarik/vundle
